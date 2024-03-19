@@ -1,20 +1,43 @@
+### Hi there 👋 I am Yi-Chun Lan,
 
-Hi ! My name is Yi-Chun Lan, a Web developer and designer!
----------------------------
+ a Web developer and designer!
 
 
 
-* 🖥️  See my portfolio at [Lan's portfolio!](http://yichunlan.com)
-* ✉️  You can contact me at [yi.chun.lan@nyu.edu](mailto:yi.chun.lan@nyu.edu)
+
+🖥️ See my portfolio at [Lan's portfolio!](http://yichunlan.com) <br/>
+✉️  You can contact me at [yi.chun.lan@nyu.edu](mailto:yi.chun.lan@nyu.edu) <br/>
+🎓 ITP @ NYU Tisch (Class of 2024)<br/>
+😎 Web Developer @  NYU Stern Berkley center (School of business)<br/>
+⚡ Specialize in front-end development including react.js & three.js <br/>
+
 
 ### Skills
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
+
+<img src="https://img.shields.io/badge/-C-00599c?style=flat&logo=c&logoColor=white"> 
+
+
+<img src="https://img.shields.io/badge/-SQL-4DB33D?style=flat&logo=sql&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/-CSS-9400D3?style=flat&logo=css3&logoColor=white"> 
+
+<img src="http://img.shields.io/badge/-Node-430098?style=flat&logo=Node.js&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express&logoColor=ffffff"> 
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> 
+
+
+
+<img src="https://img.shields.io/badge/-Figma-cc6699?style=flat&logo=figma&logoColor=ffffff"> 
+
+<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/yclanlan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yichun-lan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
