@@ -1,13 +1,14 @@
 ### Hi there 👋 I am Yi-Chun Lan, a Web developer and designer!
 
 
+--------------------------------------------------------
+🎓 Interactive Telecommunications @ NYU Tisch (Class of 2024)<br/>
+💻 Web Developer @  NYU Stern Berkley center (School of business)<br/>
+⚡ Specialize in front-end development including react.js & three.js <br/>
 
-
+--------------------------------------------------------
 🖥️ See my portfolio at [Lan's portfolio!](http://yichunlan.com) <br/>
 ✉️  You can contact me at [yi.chun.lan@nyu.edu](mailto:yi.chun.lan@nyu.edu) <br/>
-🎓 ITP @ NYU Tisch (Class of 2024)<br/>
-😎 Web Developer @  NYU Stern Berkley center (School of business)<br/>
-⚡ Specialize in front-end development including react.js & three.js <br/>
 
 
 ### Skills
