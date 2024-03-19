@@ -1,4 +1,4 @@
-### Hi there 👋 I am Yi-Chun Lan, a Web developer and designer!
+## Hi there 👋 I am Yi-Chun Lan, a Web developer and designer!
 
 
 --------------------------------------------------------
