@@ -15,7 +15,7 @@
 ### Skills
 
 
-
+<p>
 
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
 
@@ -39,5 +39,6 @@
 <img src="https://img.shields.io/badge/-Figma-cc6699?style=flat&logo=figma&logoColor=ffffff"> 
 
 <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
+
 </p>
 
