@@ -20,9 +20,6 @@
 
 <img src="https://img.shields.io/badge/-C-00599c?style=flat&logo=c&logoColor=white"> 
 
-
-<img src="https://img.shields.io/badge/-SQL-4DB33D?style=flat&logo=sql&logoColor=white"> 
-
 <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/-CSS-9400D3?style=flat&logo=css3&logoColor=white"> 
